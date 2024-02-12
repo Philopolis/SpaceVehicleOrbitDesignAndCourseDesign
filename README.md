@@ -9,4 +9,8 @@
 每个项目文件夹中的实验报告仅为完整实验报告的一部分  
 后续会选取两篇完整的实验报告用作模板，请配合相关ppt使用  
 
-📫邮箱/Email：pauline.live@qq.com or pauline.live.cn@gmail.com(not ofen)
+由于此项目组开源于结课后，因此不会再对其中的实验报告进行修订  
+需要注意的是报告模板中的结果分析和实验结论部分需要根据ppt内容而妥善修改  
+
+📫邮箱/Email：pauline.live@qq.com or pauline.live.cn@gmail.com(not ofen)  
+在此温馨提示您，要在王老师作理论分析方法讲解和报告模板展示与修订的时候认真听讲哦(⊙o⊙)
